@@ -1,6 +1,6 @@
 ## Bill Wu 武思兆
 
-![Bovay lab, where I spent much time near two 3-meter slabs of barre gray granite](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+![in Bovay lab, circa 2017](/Bill_photo_lab.JPG)
 
 Here's a little about me:  
 
