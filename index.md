@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Bill Wu 武思兆
 
-You can use the [editor on GitHub](https://github.com/billlwu/billlwu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Bovay lab, where I spent much time near two 3-meter slabs of barre gray granite](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's a little about me:  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/billlwu/billlwu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Grew up in Beijing, China. Came to the US for college in 2011.
+- During my senior year at Swarthmore College, I designed and built an electrodynamic [shaketable](https://scholarship.tricolib.brynmawr.edu/handle/10066/16600) to simulate earthquakes. 
+- This experience led me to pursue a PhD in civil engineering at Cornell University, under the guidance of professor Greg McLaskey. I was once [featured](https://www.cee.cornell.edu/spotlights/bill-wu-phd-student) by our department; some of our published work on earthquake physics is [here](https://courses.cit.cornell.edu/mclaskey/publications.html). 
+- In the summers of 2019 and 2020, I've done internships in quantitative finance at a [startup hedge fund](http://arcstonecap.com/index.html) and a [high-frequency  trading firm](https://www.quantlab.com/). 
+- I'm excited about machine learning, reinforcement learning and their applications to finance. I'm also reading about the efficient market hypothesis and adaptive market hypothesis to form an understand of how financial market behavior can be explained using tools from statistics, biology, psychology, etc.
+- I'll write down some thoughts from various readings here.
