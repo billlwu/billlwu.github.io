@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to Bill's homepage!
-email: billsizhao.wu@gmail.com
-description: "[LinkedIn](https://www.linkedin.com/in/sizhao-bill-wu/)  \n[Instagram]("https://www.instagram.com/billl.wu/")"
+title: Bill's homepage
+social-network-links:
+  linkedIn: sizhao-bill-wu
+  instagram: billl.wu
