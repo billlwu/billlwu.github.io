@@ -10,6 +10,4 @@ Here's a little about me:
 - In the winter of 2018 while I was attending a geophysics conference in DC, my friend sent me a few papers on trading strategies and made me realize some signal processing techniques I applied to seismic time series (e.g. filtering, FFT) are transferrable to financial market data. 
 - In the summers of 2019 and 2020, I did internships in quantitative finance at a [startup hedge fund](http://arcstonecap.com/index.html) and a [high-frequency  trading firm](https://www.quantlab.com/). 
 - I plan to defend my PhD around May/June 2021.
-- I will start as a junior trader at [Gelber Group](https://www.gelbergroup.com/) in August 2021.
-
-Eventually I'll move these to a separate page. For now everything is a laundry list...
+- I will start as a junior trader at [Gelber Group](https://www.gelbergroup.com/) in Chicago after my defense. 
