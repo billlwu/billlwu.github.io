@@ -13,4 +13,4 @@ Here's a little about me:
 - I am excited to start as a junior trader at [Gelber Group](https://www.gelbergroup.com/) in Chicago after my defense. 
 
 
-Between now (Dec, 2020) and when I start work, my attention is split between writing my dissertation and self-learning some subjects I'm interested in, including all things [statistic](ML.md), [algorithms](algorithms.md), [convex optimization](convex.md), [adaptive market hypothesis](AMH.md), [reinforcement learning](RL.md), [quant trading](QuantTrading.md), and [US politics](Politics.md).
+Between now (Dec, 2020) and when I start work, my attention is split between writing my dissertation and self-learning some subjects I'm interested in, including [statistics](ML.md), [algorithms](algorithms.md), [convex optimization](convex.md), [adaptive market hypothesis](AMH.md), [reinforcement learning](RL.md), [quant trading](QuantTrading.md), and [US politics](Politics.md).
