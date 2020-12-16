@@ -11,3 +11,6 @@ Here's a little about me:
 - In the summers of 2019 and 2020, I did internships in quantitative finance at a [startup hedge fund](http://arcstonecap.com/index.html) and a [high-frequency  trading firm](https://www.quantlab.com/). 
 - I plan to defend my PhD thesis around May/June 2021.
 - I am excited to start as a junior trader at [Gelber Group](https://www.gelbergroup.com/) in Chicago after my defense. 
+
+
+Go to [ml](ML.md)
