@@ -14,3 +14,5 @@ Here's a little about me:
 
 
 Between now (Dec, 2020) and when I start work, my attention is split between writing my dissertation and self-learning some subjects I'm interested in, including [statistics](ML.md), [algorithms](algorithms.md), [convex optimization](convex.md), [adaptive market hypothesis](AMH.md), [reinforcement learning](RL.md), [quant trading](QuantTrading.md), and [US politics](Politics.md).
+
+I started reading *Trading and Exchanges* by Larry Harris, a finance professor at USC. [Here](TandE.md) are some notes. 
