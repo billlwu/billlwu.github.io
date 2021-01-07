@@ -17,3 +17,5 @@ I follow US politics. Below are my notes/thoughts:
 (Dec 15) About 5 weeks after major news media projected the US election, Senate majority leader McConnell recognizes Biden as President-elect. This is after Trump and co went through recounts, lawsuits, meetings with state legislature officials from MI, Supreme Court defeat. Trump did not concede so he could attract political donations.
 
 (Dec 16) Very informative piece in [Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2020-09-21/tiktok-s-algorithm-can-t-be-trusted) on *recommendor systems*. Too bad the author felt the need to politicize her title. Dr. O'Neil has had an exciting career path (math PhD, professor, quant, data science and opinion writer). Some of her work is posted [here](https://mathbabe.org/contact/). 
+
+(Jan. 6) Day for US Congress to certify Biden victory. Trump speech before 1pm instructed his followers to march to the Capitol. They did and eventually broke in, occupying the floor of the House, the Speaker's office, etc. DC National Guard, VA state police, MD troopers entered DC to restore order.
