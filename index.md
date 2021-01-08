@@ -3,7 +3,7 @@
 
 Here's a little about me:  
 
-- [LinkedIn](https://www.linkedin.com/in/sizhao-bill-wu/) and [Instagram](https://www.instagram.com/billl.wu); or write me an email billsizhao.wu at gmail dot com.
+- [LinkedIn](https://www.linkedin.com/in/sizhao-bill-wu/) and [Instagram](https://www.instagram.com/billl.wu); write me an email billsizhao.wu at gmail dot com.
 - I grew up in Beijing and came to Swarthmore, PA for college in 2011.
 - During my senior year, I designed and built an electrodynamic shaketable to simulate earthquakes. Here is an CAD [sketch](https://www.dropbox.com/s/hsv2x8rk3nfot97/table_frame.PNG?dl=0) for the frame, me getting a structure ready for [testing](https://www.dropbox.com/s/pvjqdtjptgckrcy/20150430_164630.jpg?dl=0) in the basement of Hicks, testing the control system for the [motor](https://www.dropbox.com/s/h2y85o97888gkd1/20150502_173739.mp4?dl=0), and some [shaking](https://www.dropbox.com/s/n5qw488mvfc41ln/20150502_172903.mp4?dl=0) in progress.
 - This experience (machine shop construction, structural dynamics, linear systems analysis) led me to pursue a PhD in civil engineering at Cornell University, under the guidance of professor Greg McLaskey. I was once [featured](https://www.cee.cornell.edu/spotlights/bill-wu-phd-student) by our department; some of our group's published work on earthquake physics is listed [here](https://courses.cit.cornell.edu/mclaskey/publications.html).
