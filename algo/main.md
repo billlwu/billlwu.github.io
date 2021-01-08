@@ -10,7 +10,7 @@ I'm going through an MIT OCW [6.006](https://ocw.mit.edu/courses/electrical-engi
 
 (12/18) Unit 1 , finished both lectures. 
 
-Used a 1D peak finding example to introduce *recurrences* and *asymptotic complexity*, i.e. big-![equation](https://latex.codecogs.com/gif.latex?%5CTheta%2C%20O%2C%20%5COmega) notations). Here is a helpful [ipynb](asymptotic_complexity.html) illustrating these notations. Essentially, they describe an upper bound, lower bound, or both for a function. One benefit is to reduce complex functional forms (such as logarithms). 
+Used a 1D peak finding example to introduce *recurrences* and *asymptotic complexity*, i.e. big-![equation](https://latex.codecogs.com/gif.latex?%5CTheta%2C%20O%2C%20%5COmega) notations). Here is a helpful [ipynb](/algo/asymptotic_complexity.html) illustrating these notations. Essentially, they describe an upper bound, lower bound, or both for a function. One benefit is to reduce complex functional forms (such as logarithms). 
 
 Lecture 2 talks introduces two *models of computation* (1) random access machine, RAM (arrays, assembly programming) (2) pointer machines (pointers/references, think OOP).
 
