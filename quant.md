@@ -2,9 +2,9 @@
 title: Quant Trading
 ---
 
-I started reading *Trading and Exchanges* by Larry Harris, a finance professor at USC. [Here](/QuantTrading/TandE.md) are some notes. 
+I started reading *Trading and Exchanges* by Larry Harris, a finance professor at USC. [Here](/TandE.md) are some notes. 
 
-I started reading *Adaptive Market Hypothesis* by Andrew Lo. [Here](/QuantTrading/AMH.md) are some notes. 
+I started reading *Adaptive Market Hypothesis* by Andrew Lo. [Here](/AMH.md) are some notes. 
 
 I'm going through the series of books by Earnest Chan: *Quantitative Trading*, *Algorithmic Trading*, *Machine Trading*. Below are my notes and all things trading related:
 
