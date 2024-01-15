@@ -1,5 +1,5 @@
 ---
-title: hotel blocks
+title: Where to stay in Chicago
 ---
 
 Here are their links:
